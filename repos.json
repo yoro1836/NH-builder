@@ -1,20 +1,20 @@
 [  {
     "kernelSource": {
-      "name": "dark-Kernel",
-      "repo": "https://github.com/LineageOS/android_kernel_qcom_sm8150",
-      "branch": "lineage-20",
-      "device": "sm8150-perf"
+      "name": "MikasaNethunter",
+      "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
+      "branch": "Light",
+      "device": "MSM_18355_msm8953-perf"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
+        "repo": "https://github.com/kdrag0n/proton-clang.git",
         "branch": "master",
         "name": "gas"
       },
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "repo": "https://github.com/kdrag0n/proton-clang.git",
+        "branch": "master",
         "name": "clang"
       }
     ],
