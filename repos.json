@@ -3,7 +3,7 @@
       "name": "MikasaNethunter",
       "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
       "branch": "Light",
-      "device": "MSM_18355_msm8953-perf"
+      "device": "mikasa"
     },
     "withKernelSU": false,
     "toolchains": [
