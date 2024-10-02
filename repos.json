@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "MikasaNethunter",
-      "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
-      "branch": "Light",
-      "device": "mikasa"
+      "name": "r0q",
+      "repo": "https://github.com/BruhDudeWew/android_kernel_samsung_r0q.git",
+      "branch": "EXF9",
+      "device": "gki"
     },
     "withKernelSU": false,
     "toolchains": [
